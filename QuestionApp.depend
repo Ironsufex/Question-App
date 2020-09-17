@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589149777 source:c:\users\irons\desktop\projects\blyat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
