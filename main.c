@@ -357,7 +357,3 @@ writeToFile(){
     }
     fclose(filename);
 }
-
-
-//I would please ask that you understand how difficult the last few months have been. I did not complete my last assingment before due date and need to do well in this.
-//This project was completed roughly in 6 or 7 hours as it was all the time I could get. Thanks
